@@ -91,6 +91,6 @@ export const loveLiveList = [
         "Daring!!",
         "Believe Again"
         ],
-        anime: "Love Live! School Idol Festival ALL STARS"
+        anime: "Love Live! Sunshine!!"
     },
 ];
