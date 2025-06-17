@@ -1,4 +1,3 @@
-// index.ts
 import { Elysia } from "elysia";
 import { geminiRoute } from "./routes/gemini.route";
 import dotenv from "dotenv";
